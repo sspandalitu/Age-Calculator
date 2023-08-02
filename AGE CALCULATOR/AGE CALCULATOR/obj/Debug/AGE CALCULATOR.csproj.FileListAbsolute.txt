@@ -1,0 +1,5 @@
+c:\users\smita\documents\visual studio 2017\Projects\AGE CALCULATOR\AGE CALCULATOR\bin\Debug\AGE CALCULATOR.exe.config
+c:\users\smita\documents\visual studio 2017\Projects\AGE CALCULATOR\AGE CALCULATOR\bin\Debug\AGE CALCULATOR.exe
+c:\users\smita\documents\visual studio 2017\Projects\AGE CALCULATOR\AGE CALCULATOR\bin\Debug\AGE CALCULATOR.pdb
+c:\users\smita\documents\visual studio 2017\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\Debug\AGE CALCULATOR.exe
+c:\users\smita\documents\visual studio 2017\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\Debug\AGE CALCULATOR.pdb
